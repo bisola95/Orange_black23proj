@@ -1,0 +1,231 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.orange{
+    background-image: linear-gradient(90deg, rgb(231, 128, 10) 40%, black 0%);
+    height: 600px;
+    width: 100%;
+}
+
+span{
+    color: white;
+    margin: 20px
+}
+
+h2{
+    margin-left: 20px;
+    font-size: larger;
+    font-family: fantasy;
+    font-style: italic;
+    
+}
+
+.logo_hamb{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    
+}
+
+.imageone img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    
+}
+
+.img_write{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.writeone{
+    color: white;
+    
+
+    
+    
+    
+}
+
+.imageone{
+    
+    height: 300px;
+    width: 300px;
+    margin-left: 350px;
+    margin-top: 70px;
+}
+
+.botton{
+    margin-top: 20px;
+}
+
+.aone{
+    color: orangered;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: black;
+    border: orangered 1px solid;
+
+
+}
+
+.atwo{
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    border: none;
+}
+
+.who{
+    margin-left: 50px;
+}
+
+.whoone{
+    color: orange;
+}
+
+.ps{
+    color: white;
+
+}
+
+.pone{
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.myimage img{
+    height: 400px;
+    width: 400px;
+
+}
+
+.myimage{
+    margin-right: 50px;
+}
+
+.talk{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+
+.firstdiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15px;
+    width: 200px;
+    background-color: brown;
+    color: white;
+    
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.pic2 img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: orange;
+}
+
+.sch p {
+    color: orange;
+}
+
+.eduone{
+    color: orange;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+}
+
+.seconddiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15px;
+    width: 200px;
+    background-color: brown;
+    color: white;
+    
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.pic3 img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: orange;
+}
+
+.sch p {
+    color: orange;
+}
+
+.thirddiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15px;
+    width: 200px;
+    background-color: brown;
+    color: white;
+    
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.pic4 img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: orange;
+}
+
+.sch p {
+    color: orange;
+}
+
+.imagery img{
+
+    height: 400px;
+    width: 400px;
+    margin-right: 50px;
+}
+
+.holder{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
